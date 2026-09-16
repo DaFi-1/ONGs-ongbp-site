@@ -12,3 +12,28 @@ Dessa forma, consigo reaproveitar uma estrutura já testada, mantendo a possibil
   <img width="1877" height="5659" alt="ongbp" src="./ongbp.png" />
 </p>
 
+# Licença — Todos os Direitos Reservados
+
+Copyright © 2026. Todos os direitos reservados.
+
+Este repositório é disponibilizado exclusivamente para fins de visualização e consulta.
+
+É permitido:
+
+* Visualizar o conteúdo deste repositório.
+* Consultar a estrutura e a organização do projeto.
+
+Não é permitido, sem autorização prévia e expressa do autor:
+
+* Copiar o código-fonte ou qualquer parte deste projeto.
+* Modificar, adaptar ou criar trabalhos derivados.
+* Redistribuir ou republicar o código.
+* Utilizar o código, total ou parcialmente, em outros projetos.
+* Utilizar o projeto para fins comerciais ou não comerciais.
+* Reivindicar autoria sobre qualquer parte deste projeto.
+
+A visualização pública deste repositório não constitui concessão de licença, autorização de uso, direitos autorais ou quaisquer outros direitos sobre o conteúdo.
+
+Qualquer utilização além da simples visualização e consulta requer autorização prévia do detentor dos direitos autorais.
+
+**Uso não autorizado não é permitido.**
